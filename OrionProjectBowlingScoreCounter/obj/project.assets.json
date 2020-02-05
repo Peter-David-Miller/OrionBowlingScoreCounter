@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Peter\\Documents\\GitHub\\OrionSoftwareChallenge\\OrionProjectBowlingScoreCounter\\OrionProjectBowlingScoreCounter.csproj",
+      "projectUniqueName": "C:\\Users\\Peter\\Documents\\GitHub\\OrionSoftwareChallenge\\OrionBowlingScoreCounter\\OrionProjectBowlingScoreCounter\\OrionProjectBowlingScoreCounter.csproj",
       "projectName": "OrionProjectBowlingScoreCounter",
-      "projectPath": "C:\\Users\\Peter\\Documents\\GitHub\\OrionSoftwareChallenge\\OrionProjectBowlingScoreCounter\\OrionProjectBowlingScoreCounter.csproj",
+      "projectPath": "C:\\Users\\Peter\\Documents\\GitHub\\OrionSoftwareChallenge\\OrionBowlingScoreCounter\\OrionProjectBowlingScoreCounter\\OrionProjectBowlingScoreCounter.csproj",
       "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Peter\\Documents\\GitHub\\OrionSoftwareChallenge\\OrionProjectBowlingScoreCounter\\obj\\",
+      "outputPath": "C:\\Users\\Peter\\Documents\\GitHub\\OrionSoftwareChallenge\\OrionBowlingScoreCounter\\OrionProjectBowlingScoreCounter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

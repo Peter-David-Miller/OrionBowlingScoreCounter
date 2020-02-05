@@ -64,7 +64,6 @@ namespace OrionProjectBowlingScoreCounter
                         }
                         if (loopCounter == 11)
                         {
-
                             DoubleStrikeChance = true;
                         }
                         else
@@ -106,6 +105,7 @@ namespace OrionProjectBowlingScoreCounter
                                 if (Run2 == "X" || Run2 == "x")
                                 {
                                     GameScore[loopCounter - 1].Run2 = 10;
+                                    ValidInput = true;
                                 }
                             }
 
@@ -120,10 +120,12 @@ namespace OrionProjectBowlingScoreCounter
                                 {
                                     SpareFinal = true;
                                     Spare = true;
+                                    ValidInput = true;
                                 }
                                 else
                                 {
                                     Spare = true;
+                                    ValidInput = true;
                                 }
 
                             }
@@ -165,6 +167,7 @@ namespace OrionProjectBowlingScoreCounter
                 {
                     SpareFinal = false;
                 }
+
                 GameScore[loopCounter - 1].Score = ScoreLocal;
                 GameScore[loopCounter - 1].Strike = Strike;
                 GameScore[loopCounter - 1].Spare = Spare;
@@ -192,10 +195,9 @@ namespace OrionProjectBowlingScoreCounter
                     AdditionalScore = GameScore[TotalScoreCounter + 1].Run1;
                 }
                 TotalScore = TotalScore + AdditionalScore;
-                TotalScoreCounter++;
-
-                Console.WriteLine("The total scored points is " + TotalScore);
+                TotalScoreCounter++;                
             }
+            Console.WriteLine("The total scored points is " + TotalScore);
         }
     }
 

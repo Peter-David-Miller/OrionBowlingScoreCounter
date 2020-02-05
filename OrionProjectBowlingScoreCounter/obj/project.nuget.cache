@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZwgPMvD44PTUoMi3XxFX2fHlXdi11fzvgyabsbDPzFO116JkspAqcoe6ExlpDb5+jras5laG4KwStBNvVWmXxQ==",
+  "dgSpecHash": "TiLA+o6KTRZwx04dqq2DZJAxbROYIha4lKFoy2YDdW5piDiEZm+nA5TbkhsHMSkIDLSnF/FVy2AD0jT5XFND0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Peter\\Documents\\GitHub\\OrionSoftwareChallenge\\OrionProjectBowlingScoreCounter\\OrionProjectBowlingScoreCounter.csproj",
+  "projectFilePath": "C:\\Users\\Peter\\Documents\\GitHub\\OrionSoftwareChallenge\\OrionBowlingScoreCounter\\OrionProjectBowlingScoreCounter\\OrionProjectBowlingScoreCounter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
